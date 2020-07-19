@@ -1,0 +1,6 @@
+framework module Pods_KuetBusTests {
+  umbrella header "Pods-KuetBusTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
